@@ -81,10 +81,10 @@ retail-demand-forecasting-stockout-bias/
 ##  How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/retail-demand-forecasting-stockout-bias.git
+  git clone https://github.com/<your-username>/bias-aware-retail-demand-forecasting.git
 
 2. Install dependencies:
-                pip install -r requirements.txt
+                 pip install -r requirements.txt
    
 3. Open the notebook:   
           jupyter notebook notebooks/demand_forecasting_stockout_bias.ipynb
